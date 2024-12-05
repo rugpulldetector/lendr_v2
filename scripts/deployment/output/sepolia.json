@@ -1,0 +1,71 @@
+{
+  "ActivePool": {
+    "address": "0x7b4e1954Abd86A9FD6bC2437F5fc630271e0B8be",
+    "txHash": "0x8313e329fad6664c3246f306aa6cde68d90c13852a2b0131b732f3e40ee4c173",
+    "verification": "https://sepolia.etherscan.io/address/0x7b4e1954Abd86A9FD6bC2437F5fc630271e0B8be#code"
+  },
+  "AdminContract": {
+    "address": "0x4C2b5F49FcC9dAb2db23D12CA291B1Fe0D743Df9",
+    "txHash": "0x19b8887acec77dcfd0df05079969a0c72e1dab6b1cfb9b8fd144274dfe633ee8",
+    "verification": "https://sepolia.etherscan.io/address/0x4C2b5F49FcC9dAb2db23D12CA291B1Fe0D743Df9#code"
+  },
+  "BorrowerOperations": {
+    "address": "0x3Daab521736FA05f26190B42284363b211BE534F",
+    "txHash": "0x30f2d9b75c78943a9daa2ba41fb69e196a963b3a35962778127d112a9668b02a",
+    "verification": "https://sepolia.etherscan.io/address/0x3Daab521736FA05f26190B42284363b211BE534F#code"
+  },
+  "CollSurplusPool": {
+    "address": "0x9A1A94Cb0e1Fbaf81cC36063E24f239afB31E634",
+    "txHash": "0x25bfc3b6611bf2ff62d593d1bee3d6d557492925f267a85cd6d45cad52ec0f20",
+    "verification": "https://sepolia.etherscan.io/address/0x9A1A94Cb0e1Fbaf81cC36063E24f239afB31E634#code"
+  },
+  "DefaultPool": {
+    "address": "0xa71AD982f067ba2FC7fE723A52877348eA307901",
+    "txHash": "0x1f244ae794a8db507f4bb1727cd0c68dc61452eb3923344443fe666ec271befb",
+    "verification": "https://sepolia.etherscan.io/address/0xa71AD982f067ba2FC7fE723A52877348eA307901#code"
+  },
+  "FeeCollector": {
+    "address": "0x24F00D0E77569A56f55035417B3CC7Ef9073c6a4",
+    "txHash": "0x3bfb98acd5c1451916596da1c40c231690f104c4ed5708e3bb4df4ba6d6e5d5b",
+    "verification": "https://sepolia.etherscan.io/address/0x24F00D0E77569A56f55035417B3CC7Ef9073c6a4#code"
+  },
+  "SortedVessels": {
+    "address": "0x257bA7f7414bdf2d7B2f74DB6f0D6E5EA245584d",
+    "txHash": "0x29fe4e6655584c69abf68e8c54b32246182117905f888a2ee9c5f6f8bd0bbcbb",
+    "verification": "https://sepolia.etherscan.io/address/0x257bA7f7414bdf2d7B2f74DB6f0D6E5EA245584d#code"
+  },
+  "StabilityPool": {
+    "address": "0xD4031C14896b10ebB28E3ce1a7119603caC96736",
+    "txHash": "0x985eeb6a45cf6be472f319a7949d87cbe201c3cf9358b48e080cab4d6d84ebb1",
+    "verification": "https://sepolia.etherscan.io/address/0xD4031C14896b10ebB28E3ce1a7119603caC96736#code"
+  },
+  "VesselManager": {
+    "address": "0xF1b1fD14c6542d758217B0066DdE03058DD2e23C",
+    "txHash": "0xc308311741eb7506892d5aa1429da8ca85a1fea0abcc981194a80a5e19f1e463",
+    "verification": "https://sepolia.etherscan.io/address/0xF1b1fD14c6542d758217B0066DdE03058DD2e23C#code"
+  },
+  "VesselManagerOperations": {
+    "address": "0x6F72475F4D1BD4F924a69EEf58ed082Fb9bEC0b6",
+    "txHash": "0x9834398b95cd314ce85633a61b51c191b8a8e5486e70ffeb77f15d96fe382a0a",
+    "verification": "https://sepolia.etherscan.io/address/0x6F72475F4D1BD4F924a69EEf58ed082Fb9bEC0b6#code"
+  },
+  "GasPool": {
+    "address": "0x99eB52612C18D25Da2D86338e2630125C796393C",
+    "txHash": "0xfa29d309a58450418db0708b236dbfa190185fc61942ec35d7805e8981bf6d50",
+    "verification": "https://sepolia.etherscan.io/address/0x99eB52612C18D25Da2D86338e2630125C796393C#code"
+  },
+  "PriceFeedTestnet": {
+    "address": "0x039D4489222E83f4Dc83371397315A5166f93EdA",
+    "txHash": "0x44191e3f137aee93435349fe272bd2c993088e91d1a60bff76221ccccb831472",
+    "verification": "https://sepolia.etherscan.io/address/0x039D4489222E83f4Dc83371397315A5166f93EdA#code"
+  },
+  "TimelockTester": {
+    "address": "0xEB4c0284C7DD52B4faCF22b03963722408410c6B",
+    "txHash": "0x55e058dd2b0381d93fea9d925d78279b6f1d7f0b73787085c7f6c723f0eef174"
+  },
+  "DebtToken": {
+    "address": "0x51e43E2B4452f4F3e87f545E7F01cF3c70650EEd",
+    "txHash": "0x7d29fbc743ae0d140413c7be4d0459b672ea4b21f75023fa567d94e69973bf1b",
+    "verification": "https://sepolia.etherscan.io/address/0x51e43E2B4452f4F3e87f545E7F01cF3c70650EEd#code"
+  }
+}

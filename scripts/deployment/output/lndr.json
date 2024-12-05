@@ -1,0 +1,17 @@
+{
+  "LNDRToken": {
+    "address": "0xB6F21F6C8DD748b7dA9E47a61de4a8A75Aed4029",
+    "txHash": "0xbc63bd512d1c95f0c4b1908291b828b925fc20da1414b67c34087054fb844251",
+    "verification": "https://sepolia.arbiscan.io/address/0xB6F21F6C8DD748b7dA9E47a61de4a8A75Aed4029#code"
+  },
+  "CommunityIssuance": {
+    "address": "0xFfF9AB6335Df9B93523200ffB91265A01a34E529",
+    "txHash": "0x073d851dd9b349ec936868584f764756838bf948f4176e3b88b96379e8344120",
+    "verification": "https://sepolia.arbiscan.io/address/0xFfF9AB6335Df9B93523200ffB91265A01a34E529#code"
+  },
+  "LNDRStaking": {
+    "address": "0xeCb19143E95c81B1f5F75c57bb5A09fdF8b50Acc",
+    "txHash": "0x15ecd04b9108b2e74a2e7e610e20765276b3ef36909d79783163c11dc4b2d58c",
+    "verification": "https://sepolia.arbiscan.io/address/0xeCb19143E95c81B1f5F75c57bb5A09fdF8b50Acc#code"
+  }
+}
